@@ -17,7 +17,7 @@ An open-source Small Seal Script (Xiaozhuan) font, compatible with Unicode 18.0 
 
 ### 字表及计划
 
-> ![NOTE]
+> [!NOTE]
 > 现阶段本字体仅包含篆字 42 字（[点击此处](./documentation/table.md)查看字表），后续将分批补充，请勿以当前字数评估项目完整性。
 
 本字体计划主要按照以下范围收字：
