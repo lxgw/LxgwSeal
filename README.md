@@ -18,7 +18,7 @@ An open-source Small Seal Script (Xiaozhuan) font, compatible with Unicode 18.0 
 ### 字表及计划
 
 > [!NOTE]
-> 现阶段本字体仅包含篆字 42 字（[点击此处](./documentation/table.md)查看字表），后续将分批补充，请勿以当前字数评估项目完整性。
+> 现阶段本字体仅包含篆字 45 字（[点击此处](./documentation/table.md)查看字表），后续将分批补充，请勿以当前字数评估项目完整性。
 
 本字体计划主要按照以下范围收字：
 
@@ -53,7 +53,7 @@ An open-source Small Seal Script (Xiaozhuan) font, compatible with Unicode 18.0 
 2. 进入 [TTF](https://github.com/lxgw/lxgwseal/tree/main/TTF) 文件夹获取字体，或者进入 [FCP](https://github.com/lxgw/lxgwseal/tree/main/FCP) 文件夹获取该字体的工程文件（需要 FontCreator 15.0.0.3048 及以上版本）。
 
 ## 注意事项
-- 本字体目前处于**早期制作阶段**，当前版本仅包含 42 字，后续将分批补充，请勿以当前字数评估项目完整性。正式版计划收录约 300 字，具体以实际发布版本为准。
+- 本字体目前处于**早期制作阶段**，当前版本仅包含 45 字，后续将分批补充，请勿以当前字数评估项目完整性。正式版计划收录约 300 字，具体以实际发布版本为准。
 - 本字体为个人兴趣项目，**非专业级字体产品**，字形风格以《说文》小篆为依归，适合海报广告设计、印章篆刻、文创设计等场景，不建议作为正文阅读字体长期使用。
 - 本字体**暂无大幅扩充字数的计划**，仅作有限维护。如遇缺字或问题，欢迎通过 Issue 反馈，但不保证全部处理。
 
@@ -83,6 +83,13 @@ An open-source Small Seal Script (Xiaozhuan) font, compatible with Unicode 18.0 
 - **篆字笔画来源**：[Klee One](https://github.com/fontworks-fonts/Klee) by Monotype KK，OFL 1.1
 - **ASCII 字符来源**：[Gungsuh](https://github.com/googlefonts/batang) by Hanyang I&C，OFL 1.1
 - **部分篆字字形参考**：[崇羲篆体](https://xiaoxue.iis.sinica.edu.tw/chongxi/) by 小学堂，CC BY-ND 3.0（仅作风格参考，未直接取用字形数据）
+- **部分参考资料来源**：[字统网](https://zi.tools)
+
+<div  align="center">
+<a href="https://www.high-logic.com/font-editor/fontcreator">
+  <img src="https://raw.githubusercontent.com/lxgw/Pengli/main/documentation/FontCreator_Badge_01.png" width = "300" height = "92.39" alt="Made with FontCreator" align=center />
+</a>
+</div>
 
 ## 相关项目
 ### Klee One 衍生字体项目
