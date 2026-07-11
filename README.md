@@ -81,7 +81,7 @@ An open-source Small Seal Script (Xiaozhuan) font, compatible with Unicode 18.0 
 
 ### 鸣谢
 - **篆字笔画来源**：[Klee One](https://github.com/fontworks-fonts/Klee) by Monotype KK，OFL 1.1
-- **ASCII 字符来源**：[Gungsuh](https://github.com/googlefonts/batang) by Hanyang I&C，OFL 1.1
+- **ASCII 字符来源**：[Gungsuh](https://github.com/googlefonts/batang) by HanYang I&C，OFL 1.1
 - **部分篆字字形参考**：[崇羲篆体](https://xiaoxue.iis.sinica.edu.tw/chongxi/) by 小学堂，CC BY-ND 3.0（仅作风格参考，未直接取用字形数据）
 - **部分参考资料来源**：[字统网](https://zi.tools)
 
@@ -96,6 +96,8 @@ An open-source Small Seal Script (Xiaozhuan) font, compatible with Unicode 18.0 
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
 - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
 - [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenKaiTC)
+- [霞鹜文楷 KR / LXGW WenKai KR](https://github.com/lxgw/LxgwWenKaiKR)
 - [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)
+- [彭蠡文楷 / Pengli WenKai](https://github.com/lxgw/Pengli)
 ### 更多开源字体
 - [点击此处 / Click Here](https://github.com/lxgw/lxgw/blob/main/fonts.md)
