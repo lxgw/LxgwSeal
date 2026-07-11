@@ -119,5 +119,5 @@ An open-source Small Seal Script (Xiaozhuan) font, compatible with Unicode 18.0 
 
 最后，还是那句话：**愿越来越多开源作者的付出能够得到应有的尊重，愿越来越多的开源项目能够合规地惠及每一个人。**
 
-lxgw
+lxgw  
 2026 年 7 月
