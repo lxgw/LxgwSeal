@@ -1,5 +1,3 @@
-> UNDER CONSTRUCTION
-
 # LXGW Seal / 霞鹜篆书
 An open-source Small Seal Script (Xiaozhuan) font, compatible with Unicode 18.0 Small Seal characters. 一款开源的小篆字体，与 Unicode 18.0 小篆区块兼容。
 
