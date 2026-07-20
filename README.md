@@ -78,7 +78,7 @@ An open-source Small Seal Script (Xiaozhuan) font, compatible with Unicode 18.0 
 - 〔东汉〕许慎 撰，〔北宋〕徐铉 校定，〔清〕陈昌治 刊刻：《说文解字》
 - 〔东汉〕许慎 撰，〔五代〕徐锴 校定，〔清〕祁寯藻 刊刻：《说文解字系传》
 - 〔东汉〕许慎 撰，〔清〕段玉裁 注：《说文解字注》
-> 上述四篇文献依此对应 Unicode 小篆字行的四大来源：THX、CCZ、QJZ、DYC。
+> 上述四篇文献依次对应 Unicode 小篆字形的四大来源：THX、CCZ、QJZ、DYC。
 - *Small Seal*, The Unicode Standard, Version 18.0, Unicode Consortium
 
 ### 鸣谢
