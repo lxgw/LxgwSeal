@@ -81,7 +81,7 @@ An open-source Small Seal Script (Xiaozhuan) font, compatible with Unicode 18.0 
 - **篆字笔画来源**：[Klee One](https://github.com/fontworks-fonts/Klee) by Monotype KK，OFL 1.1
 - **ASCII 字符来源**：[Gungsuh](https://github.com/googlefonts/batang) by HanYang I&C，OFL 1.1
 - **部分篆字字形参考**：[崇羲篆体](https://xiaoxue.iis.sinica.edu.tw/chongxi/) by 小学堂，CC BY-ND 3.0（仅作风格参考，未直接取用字形数据）
-- **部分参考资料来源**：[字统网](https://zi.tools)
+- **部分参考资料来源**：[字统网](https://zi.tools)、[中文数位化技术推广基金会](https://seal.cmex.org.tw/)
 
 <div  align="center">
 <a href="https://www.high-logic.com/font-editor/fontcreator">
